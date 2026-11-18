@@ -1,0 +1,3 @@
+# Ensure GitHub Linguist classifies the repository purely as Python
+*.md linguist-documentation
+tests/fixtures/** linguist-detectable=false
